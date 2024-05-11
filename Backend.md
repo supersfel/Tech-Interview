@@ -70,6 +70,4 @@ HTTP ( Hyper text transper protocol )
 
 -
 
-## DNS
-
 ## 프로세스와 스레드
