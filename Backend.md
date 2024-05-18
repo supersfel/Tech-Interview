@@ -105,6 +105,11 @@ HTTP ( Hyper text transper protocol )
 - refresh token은 access token을 갱신하기위한 정보만 있음
 - 만약 refresh token도 뺏길때를 대비하여 캐시를 활용하여 이전 로그인 정보를 저장
 - a' 이란 만료 토근이 2개 컴퓨터로 들어오면 a'' , a''' 다른 2개의 티켓이 생기게 됨
+- a-r키로 저장을 하고 만료된 a가 들어오면 a-r을 지우고 a'-r로 저장을 한후 비교
+
+### OAUTH
+
+- 결론은 전문적인 보안을 담당해주는 OAUTH를 이용한다.
 
 ### 웹 스토리지
 
