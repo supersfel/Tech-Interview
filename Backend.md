@@ -6,7 +6,6 @@ HTTP ( Hyper text transper protocol )
 웹 프로토콜 중 하나
 
 ### HTTP 1.0
-
 - 1 Request 1 connection
 - 한번의 요청을 하면 TCP/IP 요청을 끊어버림
 - 속도가 매우 느리고 비효율적임
